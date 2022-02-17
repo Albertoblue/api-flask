@@ -3,7 +3,7 @@ from flask_mysqldb import MySQL
 #from flask_cors import CORS, cross_origin
 
 from config import config
-from validaciones import *
+
 
 app = Flask(__name__)
 
